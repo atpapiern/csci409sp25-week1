@@ -1,0 +1,52 @@
+[
+    {
+        "name": "Gogoat",
+        "id": 673,
+        "type": "Grass"
+    },
+    {
+        "name": "Morgrem",
+        "id": 860,
+        "type": "Dark"
+    },
+    {
+        "name": "Aurorus",
+        "id": 699,
+        "type": "Rock"
+    },
+    {
+        "name": "Petilil",
+        "id": 548,
+        "type": "Grass"
+    },
+    {
+        "name": "Surskit",
+        "id": 283,
+        "type": "Bug"
+    },
+    {
+        "name": "Slurpuff",
+        "id": 685,
+        "type": "Fairy"
+    },
+    {
+        "name": "Necrozma",
+        "id": 800,
+        "type": "Psychic"
+    },
+    {
+        "name": "Diglett",
+        "id": 50,
+        "type": "Ground"
+    },
+    {
+        "name": "Torkoal",
+        "id": 324,
+        "type": "Fire"
+    },
+    {
+        "name": "Runerigus",
+        "id": 867,
+        "type": "Ground"
+    }
+]
